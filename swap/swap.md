@@ -122,12 +122,12 @@ int main(int argc, char const *argv[]) {
     double a = 30;
     double b = 45;
     puts("Using addition and subtraction swap:");
-    printf("Before add/sub swap: m = %d, n = %d\n", a, b);
+    printf("Before add/sub swap: m = %f, n = %f\n", a, b);
     b = a / b;
     a = a / b;  //a /= b;
     b = b * a;  // b *= a;
     // b *= a /= b = a / b;
-    printf("After  add/sub swap: m = %d, n = %d\n", a, b);
+    printf("After  add/sub swap: m = %f, n = %f\n", a, b);
     puts("========================");
 }
 ```
