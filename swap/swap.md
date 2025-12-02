@@ -54,7 +54,7 @@ int main(int argc, char const *argv[]) {
 排他的論理和の性質である以下2つを利用しています．
 
 $$
-(x \oplus y) \oplus z = x \oplus(y \oplus z) \\
+(x \oplus y) \oplus z = x \oplus(y \oplus z)　
 a \oplus a = 0
 $$
 
