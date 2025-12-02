@@ -119,8 +119,8 @@ print("a = %d, b = %d" % (a, b))
 ```C
 int main(int argc, char const *argv[]) {
     // Addition and subtraction swap example
-    int a = 30;
-    int b = 45;
+    double a = 30;
+    double b = 45;
     puts("Using addition and subtraction swap:");
     printf("Before add/sub swap: m = %d, n = %d\n", a, b);
     b = a / b;
