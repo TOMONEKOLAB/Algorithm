@@ -1,7 +1,8 @@
 # Swap
 
 値の交換操作です．  
-簡単に解説を．
+簡単に解説を．  
+コードに関しては[`swap.c`](./swap.c)を参照してください．
 
 ## Temporary variable & pointer swap
 
