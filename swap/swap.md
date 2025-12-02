@@ -114,7 +114,7 @@ a, b = b, a
 print("a = %d, b = %d" % (a, b))
 ```
 
-また，実数かつ$b \neq 0$である前提ですが，以下のような書き方もできます．
+また，実数かつ $b \neq 0$ である前提ですが，以下のような書き方もできます．
 
 ```C
 int main(int argc, char const *argv[]) {
